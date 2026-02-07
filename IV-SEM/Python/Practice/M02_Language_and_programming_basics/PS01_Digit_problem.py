@@ -31,4 +31,3 @@ print(sum)
 5) count the even and odd digits?
 
 '''
-n = int(input)+-
